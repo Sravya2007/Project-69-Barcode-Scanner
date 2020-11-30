@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.testuser.barcodescanner"
     },
     "web": {
       "favicon": "./assets/favicon.png"
